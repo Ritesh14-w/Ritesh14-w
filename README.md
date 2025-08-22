@@ -20,14 +20,17 @@ C++, Python, R, Oracle, MySQL, MicrosoftSQLServer, Canva, NumPy, Pandas, Power B
 
 🚀 Featured Projects
 
-🎮 Gaming Behavior Analytics Using Steam & Twitch Data
-🔗 View Project
+*-  Gaming Behavior Analytics Using Steam & Twitch Data
 
-📊 The Fast Food Nutrition Explorer
-🔗 View Project
 
-🤖The Podcast Success Analyzer
-🔗 View Project
+*-  The Fast Food Nutrition Explorer
+
+
+*- The Podcast Success Analyzer
+
+*- Smart Parking System
+
+---
 
 📜 Certifications
 <p align="center"><!-- Replace the src with your certificate image and the link with your certificate URL --><a href="https://coursera.org/verify/your-certificate-link" target="_blank"><img src="https://raw.githubusercontent.com/ritesh14-w/ritesh/main/assets/google.png" width="400" alt="Google Data Analytics"></a>
