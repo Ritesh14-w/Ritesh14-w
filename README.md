@@ -41,5 +41,5 @@ C++, Python, R, Oracle, MySQL, MicrosoftSQLServer, Canva, NumPy, Pandas, Power B
 </p>
 
 
-
+<p align="center"><img src="https://raw.githubusercontent.com/ritesh14-w/ritesh/main/assets/yet.gif" width="150" alt="Banner GIF"></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
