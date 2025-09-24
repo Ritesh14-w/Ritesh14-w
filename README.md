@@ -1,7 +1,7 @@
 <!-- 🎬 Add your banner GIF here -->
 <p align="center"><img src="https://raw.githubusercontent.com/ritesh14-w/ritesh/main/assets/banner.gif.gif" width="150" alt="Banner GIF"></p>
 💫 About Me:
-Hi, I’m Ritesh - a passionate data enthusiast and developer who loves turning raw data into meaningful insights and building interactive solutions.<br><br> Skilled in Python, Data Analytics and Visualization<br><br> Experienced in creating dashboards, visualizations, and predictive models<br><br>Strong interest in Data analytics, business insights, and user behavior trends<br><br> Currently learning machine learning , Database Platforms , Advanced Visualization<br><br> Open to collaborations on data-driven projects and innovative applications
+Hi, I’m Ritesh - a passionate data enthusiast and developer who loves turning raw data into meaningful insights and building interactive solutions.<br><br> -Skilled in Python, Data Analytics and Visualization<br><br> -Experienced in creating dashboards, visualizations, and predictive models<br><br>-Strong interest in Data analytics, business insights, and user behavior trends<br><br> -Currently learning machine learning , Database Platforms , Advanced Visualization<br><br> -Open to collaborations on data-driven projects and innovative applications
 
 ---
 
